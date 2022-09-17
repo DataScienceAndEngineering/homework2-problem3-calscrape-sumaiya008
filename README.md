@@ -1,1 +1,1 @@
-
+This is read me file for homework 2 part 3.
